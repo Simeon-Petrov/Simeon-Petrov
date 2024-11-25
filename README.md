@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Simeon-Petrov
 - 👀 I’m interested in back-end development
-- 🌱 I’m currently learning and interested in web development with C# and QA 
+- 🌱 I’m currently learning and interested in web development with Java, C# and QA 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
